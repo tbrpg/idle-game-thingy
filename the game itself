@@ -87,3 +87,4 @@ purchaseAutoClickerButton.pack()
 master.title("Clicker! v0.0.6")
 master.geometry("%sx%s+%s+%s" % (200,70,512,512))
 mainloop()
+~ git clone https://github.com/droidlover42/droidlover42.github.io
